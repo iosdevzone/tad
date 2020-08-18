@@ -12233,8 +12233,8 @@
       "integrity": "sha1-EQGD8mgvBKxsfYrQnEREbvl21ew="
     },
     "sqlite3": {
-      "version": "git://github.com/antonycourtney/node-sqlite3.git#8bbc552b9893fa53e4eb5e297767da2f44e23376",
-      "from": "git://github.com/antonycourtney/node-sqlite3.git",
+      "version": "git+https://github.com/iosdevzone/node-sqlite3.git#529eadc7ed6910b9d1e3c1a1d3db1366a6ffa4a8",
+      "from": "git://github.com/iosdevzone/node-sqlite3.git",
       "requires": {
         "nan": "~2.10.0",
         "node-pre-gyp": "^0.10.3",
