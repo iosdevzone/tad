@@ -42,7 +42,7 @@
     "slickgrid-es6": "2.1.1",
     "sqlite": "3.0.0",
     "sqlite-parser": "^1.0.1",
-    "sqlite3": "git+https://github.com/iosdevzone/node-sqlite3.git#529eadc7ed6910b9d1e3c1a1d3db1366a6ffa4a8"
+    "sqlite3": "git+https://github.com/iosdevzone/node-sqlite3.git#529eadc7ed6910b9d1e3c1a1d3db1366a6ffa4a8",
     "through": "^2.3.8",
     "url-regex": "git+https://github.com/antonycourtney/url-regex.git"
   },
