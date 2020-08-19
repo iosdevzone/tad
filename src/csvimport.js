@@ -144,7 +144,7 @@ const reFindAll = (re: RegExp, str: string): Array<string> => {
   let matches = []
   let matchInfo
   while ((matchInfo = re.exec(str)) !== null) {
-    matches.push((matchInfo[0]): any)
+    matches.push((matchInfo[0]: any))
   }
   return matches
 }
